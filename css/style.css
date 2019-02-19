@@ -1,0 +1,96 @@
+
+.cover-div {
+
+    width: 100%;
+    height: 100%;
+    background-color: #f9f8eb;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    font-family: 'Roboto Mono', monospace;    
+}
+
+.title-head {
+
+    color: #5c8d89;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 4%;
+}
+
+.main-container {
+
+    width: 50%;
+    height: 60%;
+    background-color: #5c8d89;
+    margin: 0 auto;
+    margin-top: 4%;
+    border-radius: 15px;
+    border-width: 5px;
+    border-style: solid;
+    border-width: 9px;
+    border-color: #74b49b;
+    text-align: center;
+    color: #f9f8eb;
+}
+
+
+li {
+
+    margin: 70px;
+    text-align: left;
+
+}
+
+
+
+#fileInput {
+    
+    color: #f9f8eb;
+    margin-left: 3%;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.resync-button {
+
+    background-color: #74b49b;
+    color: #f9f8eb;
+    margin-left: 20%;
+    text-align: center;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 2px;
+
+}
+
+.footer {
+
+    font-family: 'Roboto Mono', monospace; 
+    text-align: center;
+    color: #5c8d89;
+    margin-top: 5%;
+
+}
+
+label{
+    
+    background: #74b49b; 
+    color: #f9f8eb;
+    border-style: solid;
+    border-width: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+
+
+input[type="file"] {
+    display: none;
+}
+
+
+#logs {
+    padding-top: 5px;
+}
